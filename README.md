@@ -1,10 +1,10 @@
-# Pizza Ordering App
+##  Pizza Ordering App :pizza:
 
 This project has been written in Typescript, using latest technologies such as React, Redux and Jest.
 
 In order to run this project follow the instructions below.
 
-## Dev mode
+#### Dev mode
 
 Run the project in watch mode.
 
@@ -12,7 +12,7 @@ Run the project in watch mode.
 yarn start
 ```
 
-## Build
+#### Build
 
 Build project for production
 
@@ -20,7 +20,7 @@ Build project for production
 yarn build
 ```
 
-## Run tests
+#### Run tests
 
 Run Jest tests
 
